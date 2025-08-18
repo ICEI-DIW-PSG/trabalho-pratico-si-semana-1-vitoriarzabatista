@@ -9,11 +9,11 @@ Matricula: 904612
 
 ## Tela de inspeção com navegador
 
-<img src= ![inspeção](images/Network.jpg.png) >
+![inspeção](images/Network.jpg.png) 
 
 ## Tela de projeto no Replit
 
-<img src= ![OláMundo](images/Olá_mundo.jpg.png) >
+![OláMundo](images/Olá_mundo.jpg.png) 
 
 
 ## Orientações sobre Linguagem MarkDown
