@@ -4,16 +4,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Vitoria Amancio Roza Batista
+Matricula: 904612
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+<img src= ![inspeção](images/Network.jpg.png) >
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+<img src= ![OláMundo](images/Olá_mundo.jpg.png) >
 
 
 ## Orientações sobre Linguagem MarkDown
